@@ -42,7 +42,7 @@ This project demonstrates how **AI tools** can help grow social media accounts f
 
 ## 📸 Screenshots
 
-[!Project_live_layout]()
+[!Project_live_layout](https://github.com/Priya-creates/Bento-grid/blob/main/images/bento_live.png?raw=true)
 
 ---
 
